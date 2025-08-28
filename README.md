@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+# Leenas Estate
+(Your local README or empty file content)
+=======
 # Mern-Estate
-Real Estate app using MERN and tailwind css
+(GitHub remote README.md content)
+>>>>>>> main
